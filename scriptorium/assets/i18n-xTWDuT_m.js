@@ -1,1 +1,0 @@
-import{c as l,m as o}from"./index-D6hsY2UH.js";import"./index-tyyE7GzE.js";const n=({app:e})=>{const a=l({locale:"en-US",fallbackLocale:"en-US",legacy:!1,globalInjection:!0,messages:o});e.use(a)};export{n as default};
