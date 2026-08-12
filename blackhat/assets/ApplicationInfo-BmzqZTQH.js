@@ -1,0 +1,1 @@
+var e=class{static get Title(){return`Blackhat`}static get Author(){return`Technical`}static get Version(){return`1.0.0`}};export{e as t};
