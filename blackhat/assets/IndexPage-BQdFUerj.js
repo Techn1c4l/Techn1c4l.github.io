@@ -1,1 +1,0 @@
-import{L as e,g as t,j as n,l as r,p as i}from"./vue.runtime.esm-bundler-CLXVPhN5.js";import{t as a}from"./QPage-U99ZEQAl.js";var o=t({__name:`IndexPage`,setup(t){return(t,o)=>(n(),r(a,null,{default:e(()=>[...o[0]||=[i(`Index page`,-1)]]),_:1}))}});export{o as default};
